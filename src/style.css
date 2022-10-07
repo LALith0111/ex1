@@ -1,0 +1,7 @@
+.slide{
+    background-color: rgb(252, 19, 19);
+    width: 800px;
+    height: 200px;
+    overflow: auto;
+    border-radius:5px;
+  }
